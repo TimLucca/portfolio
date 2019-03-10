@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Tim Lucca portfolio for website",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimLucca/portfolio.git"
+  },
+  "author": "Tim Lucca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimLucca/portfolio/issues"
+  },
+  "homepage": "https://github.com/TimLucca/portfolio#readme"
+}
